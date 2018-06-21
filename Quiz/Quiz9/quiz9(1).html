@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>quiz9</title>
+    <script type="text/javascript">
+    function test1() {
+      var userinput=document.getElementById('userinput').value;
+      if(userinput=='HTML'){
+        document.getElementById('text1').innerHTML='Correct!!'
+      }else {
+        document.getElementById('text1').innerHTML='Wrong!!'
+      }
+
+    }
+
+    </script>
+  </head>
+  <body>
+    A markup language that is the basis for almost every webpage.<br>
+    There are documents, images, and links in the webpage and this language glues all them together.<br>
+    <input type="text" id="userinput" onblur="test1();"><span id="text1"></span>
+  </body>
+</html>

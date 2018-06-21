@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>퀴즈10</title>
+  </head>
+  <script type="text/javascript">
+  var user = prompt("Enter the number:");
+  var result='';
+  var total = 0;
+  for (var i = 1; i <=user; i++) {
+    total+=i
+    if (i%2==0){
+      result+="<p style='background-color : rgb(200,200,255);'>"+total+"</p>"
+    }else{
+      result+="<p style='background-color : rgb(255,200,200);'>"+total+"</p>"
+    }
+  }
+  document.write(result);
+
+
+  </script>
+  <body>
+    <span id="output"></span>
+
+  </body>
+</html>

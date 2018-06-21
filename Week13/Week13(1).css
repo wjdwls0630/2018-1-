@@ -1,0 +1,73 @@
+.practice1{grid-area: practice1;}
+.practice2{grid-area: practice2;}
+.practice3{grid-area: practice3;}
+.practice3_1{grid-area: practice3_1;}
+.grid {
+  display: grid;
+  grid-template-areas:
+  'practice1 practice1'
+  'practice2 practice2'
+  'practice3 practice3_1';
+  grid-gap: 3px;
+  padding: 3px;
+  background-color: black;
+}
+
+.grid div {
+  background-color: white;
+  padding: 3px;
+}
+
+
+/*form1*/
+
+.fieldset1 {
+  background-color: #aed8e5;
+}
+
+/*form3*/
+
+
+.form3{
+  margin-right:  20px;
+}
+
+.first_col{
+  text-align: right;
+}
+.second_col{
+  text-align: left;
+}
+.third_col{
+  text-align: center;
+  color: gray;
+  font-size: small;
+}
+.button_col{
+  vertical-align: center;
+  text-align: center;
+}
+.practice3 button{
+  text-align: center;
+}
+#orderquantity{
+  width: 125px;
+}
+#text3, #text4, #text5{
+  color: gray;
+}
+.button1 {
+  border-radius: 12px;
+  background-color: #d3d3d3;
+  border: none;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin: 0px;
+  padding: 4px 6px;
+}

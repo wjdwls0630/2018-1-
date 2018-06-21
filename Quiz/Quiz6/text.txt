@@ -1,0 +1,9 @@
+header
+# comment1
+# comment2
+# comment3
+red 5
+yellow 2
+blue 1
+red 2
+green 1

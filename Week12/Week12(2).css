@@ -1,0 +1,36 @@
+/*base*/
+.grid {
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 10px;
+  padding: 10px;
+  background-color: #2196F3;
+}
+
+.grid>div {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px 0;
+
+}
+
+/*
+practice1 코드 external css
+*/
+
+#id3 {
+  background-color: lightblue;
+  margin-left: 20px;
+  color: navy;
+}
+
+#id4 {
+  color: red;
+  font-size: 300%;
+}
+
+.practice1 {
+  width: auto;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 2px;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <span>Name: <input type="text" name="" id="name" onblur="view1();"></span><br />
+    <span>Age: <input type="text" name="" id="age" onblur="view2();"></span><br />
+    <p><span id="output"></span></p>
+    <script type="text/javascript">
+    function view1() {
+      var name=document.getElementById('name').value;
+      if (name) {
+
+      }else{
+        alert("Name is required");
+      }
+    }
+    function view2() {
+      var result="";
+      var name=document.getElementById('name').value;
+      var age=Number(document.getElementById('age').value);
+      if (name) {
+        if (age<10 && age>0) {
+          result+="Your name is "+"<strong>"+name+"</strong>, your age is "+"<strong>"+age+".</strong><br />"
+          result+="I think your are <strong>child</strong>"
+        }else if (age>=10 && age<40) {
+          result+="Your name is "+"<strong>"+name+"</strong>, your age is "+"<strong>"+age+".</strong><br />"
+          result+="I think your are <strong>young</strong>"
+        }else if (age>=40) {
+          result+="Your name is "+"<strong>"+name+"</strong>, your age is "+"<strong>"+age+".</strong><br />"
+          result+="I think your are <strong>old</strong>"
+        }else if (age<=0) {
+          alert("Number bigger than 0 is required");
+        }
+
+      }
+
+      document.getElementById('output').innerHTML=result;
+
+    }
+
+    </script>
+
+  </body>
+</html>

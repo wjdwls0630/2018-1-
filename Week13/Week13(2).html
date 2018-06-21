@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Week13(2)</title>
+    <link rel="stylesheet" href="Week13(2).css">
+  </head>
+  <body>
+    <div class="grid">
+      <div class="start">
+        <h1>Start</h1>
+        <script type="text/javascript">
+          document.write("Hello JavaScript!")
+        </script>
+      </div>
+      <div class="variables">
+        <h1>Variables</h1>
+        <p>Data type(문자형, 숫자형, 논리형, 비워진 데이터(String, Number, Boolean, Null &amp Undefined)</p>
+        <h2>String</h2>
+        <script type="text/javascript">
+        var str1='Hello World!';
+        document.write("var str1 = 'Hello World!';<br />");
+        document.write("str1 출력\t"+str1+"<br />");
+        document.write("str1의 데이터 타입\t"+typeof(str1));
+        </script>
+        <h2>Number</h2>
+        <script type="text/javascript">
+        var num1=30;
+        var num2=30.12222;
+        document.write("var num1 = 30;<br />");
+        document.write("var num2 = 30.12222;<br />");
+        document.write("num1 출력\t"+num1+"<br />");
+        document.write("num1의 데이터타입\t"+typeof(num1)+"<br />");
+        document.write("num2 출력\t"+num2+"<br />");
+        document.write("num2의 데이터타입\t"+typeof(num2));
+        </script>
+        <h2>Boolean</h2>
+        <script type="text/javascript">
+        var bool1=true;
+        var bool2=false;
+        document.write("var bool1 = true;<br />");
+        document.write("var bool2 = false;<br />");
+        document.write("bool1 출력\t"+bool1+"<br />");
+        document.write("bool1의 데이터타입\t"+typeof(bool1)+"<br />");
+        document.write("bool2 출력\t"+bool2+"<br />");
+        document.write("bool2의 데이터타입\t"+typeof(bool2));
+        </script>
+        <h2>Null & Undefined</h2>
+        <p>null은 변수에 null이 저장되어 있는 경우,  Undefined는 변수에 값이 없는 경우<br>
+        null은 변수에 저장된 데이터를 비우고자 할 때 사용</p>
+        <script type="text/javascript">
+        var nul=null;
+        var und;
+        document.write("var nul = null;<br />");
+        document.write("var und;<br />");
+        document.write("nul 출력\t"+nul+"<br />");
+        document.write("nul의 데이터타입\t"+typeof(nul)+"<br />");
+        document.write("und 출력\t"+und+"<br />");
+        document.write("und의 데이터타입\t"+typeof(und));
+        </script>
+        <h2>typeof</h2>
+        <p>typeof 는 저정한 데이터 및 변수에 저장된 데이터형을 알고 싶을 때 사용하는 메서드 </p>
+        <script type="text/javascript">
+        document.write("typeof(변수 또는 데이터);");
+        </script>
+        <h2>Variable 선언 시 주의점</h2>
+        <ol>
+          <li>변수명 첫 글자로는 $, _ , 영문자만 올 수 있다.</li>
+          <li>변수명 첫 글자 다음은 영문자, 숫자, $ , _ 만 올 수 있다.</li>
+          <li>변수명으로는 예약어(document,location,window 등) 을 사용할 수 없다. 예약어란 자바스크립트에서 사용 중인 단어들</li>
+          <li>변수명을 지을 때는 되도록 의미 부여!</li>
+          <li>변수명을 사용 할 때는 대,소문자 구분!</li>
+        </ol>
+      </div>
+      <div class="variables_exercise">
+        <h2>Check Your Variables Type!</h2>
+        <fieldset >
+          <legend>Type of Variables</legend>
+          <p><input type="text" name="userVariables" placeholder="Input Variables You want"></p>
+          <button type="button" name="button" onclick="variables_exercise_handler();" id='variables_out_button'>Check it!</button>
+          <div id='variables_output'></div>
+        </fieldset>
+      </div>
+      <div class="operators">
+        <h1>Operators</h1>
+        <script type="text/javascript">
+        var a = 4;
+        var b= 3 ;
+        document.write("<p>Set variables a,b</p>");
+        document.write("a =\t",4,"<br />");
+        document.write("b =\t",3);
+        </script>
+        <h2>Addition(+)</h2>
+        <script type="text/javascript">
+        document.write("a+b = \t",a+b);
+        </script>
+        <h2>Subtraction(-)</h2>
+        <script>
+        document.write("a-b = \t",a-b);
+        </script>
+        <h2>Multiplication(*)</h2>
+        <script>
+        document.write("a*b = \t",a*b);
+        </script>
+        <h2>Division(/)</h2>
+        <script>
+        document.write("a/b = \t",a/b);
+        </script>
+        <h2>Modulo(나머지)(%)</h2>
+        <script>
+        document.write("a%b = \t",a%b);
+        </script>
+        <h1>String Concatenation</h1>
+        <h2>Two of Data Type(String, Number) can concat or apply addition operator</h2>
+        <p>
+          String + Number can be possible<br>
+          String + Number becomes String <br />
+          Use <strong>+operator</strong> or <strong>concat</strong> method
+        </p>
+        <script type="text/javascript">
+        document.write("Example : <p>'My age is'+24<br /> ->", "My age is\t"+24+"</p>" );
+        document.write("<p>or</p>")
+        document.write("<p>'My age is'.concat(24)<br /> ->",'My age is\t'.concat(24),"</p>")
+        </script>
+        <p>
+          Tip : <br>
+          <p>
+            concat method 와 + 연산자의 결과물은 같지만 둘의 작동 방식은 다르다<br>
+          </p>
+          <p>
+            concat method 는 a.concat(b)를 하면 결과물을 새로운 string으로 생성해 결과물 c 로 반환 한다.<br />
+            따라서 계속 문자열을 추가할 때마다 변수가 가리키는 변수의 id값이 계속 변한다. <br>
+          </p>
+          <p>
+            +는 StringBuilder 클래스로 새로운 인스턴스를 만들어 append로 문자열을 추가한 뒤 toString()으로 타입변환을 한 후 리턴한다<br>
+            따라서 추가된 결과물이 가리키는 id값은 +연산자 앞에 있는 객체의 id값과 같다.
+
+          </p>
+
+
+        </p>
+
+
+
+      </div>
+      <div class="operators_exercise">
+        <h2>Calculate!</h2>
+        <fieldset>
+          <legend>Calculator</legend>
+          <p>
+            <table>
+              <tr>
+                <td class="Cal_First_Col">First Number :</td>
+                <td class="Cal_Second_Col"><input type="text" name='Cal_First_number' id="Cal_First_number" placeholder="Input First Number"></td>
+              </tr>
+              <tr>
+                <td class="Cal_First_Col">Second Number :</td>
+                <td class="Cal_Second_Col"><input type="text" name="Cal_Second_number" id="Cal_Second_number" placeholder="Input Second Number"></td>
+              </tr>
+              <tr>
+                <td class="Cal_First_Col">Operators : </td>
+                <td class="Cal_Second_Col">
+                  <select class="Cal_Operator" name="Cal_Operator">
+                    <option value="add">add</option>
+                    <option value="sub">sub</option>
+                    <option value="mul">mul</option>
+                    <option value="div">div</option>
+                    <option value="mod">mod</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2" class="Cal_Button_Row"><button type="button" name="button" id="Cal_Button"onclick="operators_exercise_handler();">Calculate!</button></td>
+              </tr>
+            </table>
+          </p>
+          <p>Result : <span id="operators_output"></span></p>
+
+        </fieldset>
+      </div>
+      <div class="complex_assignment_operator">
+        <h1>Complex Assignment Operator</h1>
+        <h2>Table of Complex Assignment Operator</h2>
+        <table border="1">
+          <tr>
+            <th>Operator</th>
+            <th>Operation</th>
+          </tr>
+          <tr>
+            <td>A=B</td>
+            <td>A=B</td>
+          </tr>
+          <tr>
+            <td>A+=B</td>
+            <td>A=A+B</td>
+          </tr>
+          <tr>
+            <td>A-=B</td>
+            <td>A=A-B</td>
+          </tr>
+          <tr>
+            <td>A*=B</td>
+            <td>A=A*B</td>
+          </tr>
+          <tr>
+            <td>A/=B</td>
+            <td>A=A/B</td>
+          </tr>
+          <tr>
+            <td>A%=B</td>
+            <td>A=A%B</td>
+          </tr>
+          <tr>
+            <td>A++</td>
+            <td>A=A+1</td>
+          </tr>
+          <tr>
+            <td>A--</td>
+            <td>A=A-1</td>
+          </tr>
+        </table>
+        <p>파이썬과 같은 기능을 하는 것이 많다 , 전위 후위 증감연산자 만 없는 내용이니 공부하자! </p>
+
+
+        <h2>증감 연산자 ++, --</h2>
+        <h3>전위 후위 증감 연산자</h3>
+        <p>
+          전위 (++a) <br>
+          후위 (a++)
+        </p>
+        <script type="text/javascript">
+        var a = 1;
+        document.write("a=1 -> a++ -> ",a++,"<br />")
+        var a = 1;
+        document.write("a=1 -> ++a -> ", ++a,"<br />")
+        var a = 1 ;
+        var result;
+        result = a++;
+        document.write("a=1 -> result=a++ -> result = ",result,"\ta = ",a,"<br />")
+        var a=1;
+        var result;
+        result= ++a;
+        document.write("a=1 -> result=++a -> result = ",result,"\ta = ",a)
+
+
+
+        </script>
+
+
+      </div>
+      <div class="complex_assignment_operator_exercise">
+        <fieldset>
+          <legend>구구단 태블릿 출력</legend>
+          <p>
+            <table>
+              <tr>
+                <td class="Complex_First_Col">몇 단까지 출력하시겠습니까? :</td>
+                <td class="Complex_Second_Col"><input type="number" name='Complex_Input_Number' id="Complex_Input_Number"></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="Complex_Button_Row"><button type="button" name="button" id="Complex_Button" onclick="complex_assignment_operator_exercise_handler();">Calculate!</button></td>
+              </tr>
+            </table>
+          </p>
+          <p>Result : <span id="complex_assignment_operator_output"></span></p>
+        </fieldset>
+      </div>
+      </div>
+
+    <script src="Week13(2).js" charset="utf-8"></script>
+
+  </body>
+</html>

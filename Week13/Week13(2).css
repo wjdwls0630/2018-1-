@@ -1,0 +1,132 @@
+/* grid template */
+.grid{
+  display: grid;
+  grid-template-areas:
+  'start start'
+  "variables variables_exercise"
+  "operators operators_exercise"
+  "complex_assignment_operator complex_assignment_operator_exercise";
+  grid-gap: 3px;
+
+  padding: 3px;
+
+  background-color: black;
+}
+.grid div{
+  background-color: white;
+
+  padding: 3px;
+
+}
+
+/* start section */
+.start{
+  grid-area: start;
+}
+/* variables section */
+.variables{
+  grid-area: variables;
+}
+/* variables_exercise section */
+.variables_exercise{
+  grid-area: variables_exercise;
+}
+.variables_out p input{
+  width: 200px;
+}
+#variables_out_button{
+
+}
+
+/* operators section */
+.operators{
+  grid-area: operators;
+}
+
+/* operators_exercise section */
+.operators_exercise{
+  grid-area: operators_exercise;
+}
+.Cal_First_Col{
+  text-align: right;
+}
+.Cal_Button_Row{
+  text-align: center;
+}
+
+/*complex_assignment_operator*/
+.complex_assignment_operator{
+  grid-area: complex_assignment_operator;
+}
+.complex_assignment_operator table{
+  text-align: center;
+  line-height: 1.5;
+  margin: 20px 10px;
+  border-collapse: collapse;
+  border-spacing: 1px;
+}
+.complex_assignment_operator table th{
+  width: auto;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  color: #fff;
+  background: #124C87 ;
+}
+.complex_assignment_operator table td{
+  width: auto;
+  padding: 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+  background: #eee;
+}
+
+
+/*complex_assignment_operator_exercise*/
+.complex_assignment_operator_exercise{
+  grid-area: complex_assignment_operator_exercise;
+}
+#complex_assignment_operator_output{
+  display: block;
+}
+#complex_assignment_operator_output table{
+  border-collapse: collapse;
+  text-align: center;
+  line-height: 1.5;
+  border: 1px solid #ccc;
+  margin: 20px 10px;
+}
+#complex_assignment_operator_output table thead{
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  background: #e7708d;
+}
+#complex_assignment_operator_output table thead th{
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  color: #fff;
+}
+#complex_assignment_operator_output table tbody th{
+  width: 350px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: center;
+  border-bottom: 1px solid #ccc;
+  background: #fcf1f4;
+}
+#complex_assignment_operator_output table td{
+  width: 150px;
+  padding: 10px;
+  vertical-align: center;
+  border-bottom: 1px solid #ccc;
+}
+table.type07 thead th {
+
+}
+table.type07 tbody th {
+
+}
+table.type07 td {
+
+}

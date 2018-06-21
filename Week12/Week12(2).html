@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Week12(2)</title>
+  <link rel="stylesheet" href="Week12(2).css">
+  <style media="screen">
+    #id2 {
+      font-size: 200%;
+      border: solid 3px red;
+      background-color: cyan;
+      color: #342570;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="grid">
+    <div class="practice1">
+      <h2>inner CSS</h2>
+      <p id="id1" style="color : white; background-color: black;">inner CSS</p>
+      <h2>internal CSS</h2>
+      <p id="id2">2</p>
+      <h2>external CSS</h2>
+      <p id="id3">3</p>
+      <p id="id4">4</p>
+      <p id="id5">5</p>
+    </div>
+    <div class="practice2">
+      <h2>setcolor color name,rgb and hex</h2> if you use color picker packages(Atom) get color code more easier
+      <h3>Use color name</h3>
+      <p style="background-color:cyan;">Cyan background-color</p>
+      <h3>Use rgb code</h3>
+      <p style="background-color:rgb(255, 210, 100);">rgb(255, 99, 71)</p>
+      <h3>Use hex code</h3>
+      <p style="background-color:#ff6347;">#ff6347</p>
+      <h3>Use rgb(red(0~255),green(0~255),blue(0~255),transparent(0~1))</h3>
+      <p style="background-color:rgba(255, 99, 71, 0.5);">rgba(255, 99, 71, 0.5)</p>
+    </div>
+    <div class="practice3">
+      <h2>CSS layout</h2>
+      <div><a href="http://swcon.khu.ac.kr">Department of Sofware Convergence</a></div>
+      <div>
+        <img src="google.jpg" alt="google" width="300px;">float none
+      <p style="color:blue; font-size:200%;">CSS layout(no clear)</p>
+    </div>
+      <div>
+        <img src="google.jpg" alt="google" width="300px;" style="float:left; margin-right:20px;">float-left
+        <p style="color:blue; font-size:200% clear:left;">CSS layout(clear-left)</p>
+      </div>
+      <div><img src="google.jpg" alt="google" width="300px;" style="float : right;">float-right
+        <p style="color:blue; font-size:200% clear:right;">CSS layout(clear-right)</p>
+      </div>
+      <p style="color:blue; font-size:200% clear:both;">CSS layout(clear-both)</p>
+    </div>
+    <div class="tableset">
+      <table border="1px;">
+        <tr>
+          <td>Day 1</td>
+          <td>Walking</td>
+          <td>30 minutes</td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td>Swimming</td>
+          <td>45 minutes</td>
+        </tr>
+        <tr>
+          <td>Day 3</td>
+          <td>Resting</td>
+          <td>500 minutes</td>
+        </tr>
+        <tr>
+          <td><a href="http://swcon.khu.ac.kr">소융</a></td>
+          <td><img src="google.jpg" alt="google" width="100px;"></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b77b776f-f2d1-4c89-b3f9-4c804306adf2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="웹파이썬프로그래밍" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Week9(5).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week9/Week9(5).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list1</find>
+      <find>L</find>
+      <find>list_default</find>
+      <find>linear_while</find>
+      <find>value_want_index</find>
+      <find>value_want</find>
+      <find>file_example</find>
+      <find>min1</find>
+      <find>a</find>
+      <find>-</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/플밍 시험/d.txt" />
+        <option value="$PROJECT_DIR$/플밍 시험/ㅇㄴㅁㄹㅇㄴㄹㅇㄴㅁ.py" />
+        <option value="$PROJECT_DIR$/플밍 시험/f.txt" />
+        <option value="$PROJECT_DIR$/플밍 시험/dfasfasfas.py" />
+        <option value="$PROJECT_DIR$/플밍 시험/우리시험클래스.py" />
+        <option value="$PROJECT_DIR$/퀴즈, 연습문제/Quiz7/Quiz(7).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2(1).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2(2).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2(3).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2(4).py" />
+        <option value="$PROJECT_DIR$/플밍 시험/2차시험 클래스.py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2(5).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 4시수업)/Exam2(2).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 4시수업)/Exam2(3).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 4시수업)/Exam2(4).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 4시수업)/Exam2(5).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 4시수업)/Exam2_2(5).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2_1(1).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2_1(2).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2_1(3).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2_1(4).py" />
+        <option value="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)/Exam2_1(5).py" />
+        <option value="$PROJECT_DIR$/Week 13/Week13(1)_practice1_process.py" />
+        <option value="$PROJECT_DIR$/Week 14/Week14(1).py" />
+        <option value="$PROJECT_DIR$/Week10/Exam2(월,수 1시수업)/Exam2_1(5).py" />
+        <option value="$PROJECT_DIR$/플밍 시험/검색 알고리즘.py" />
+        <option value="$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 1시수업)/Exam2_1(1).py" />
+        <option value="$PROJECT_DIR$/Week14/Week14_2.py" />
+        <option value="$PROJECT_DIR$/Week14/Week14_3.py" />
+        <option value="$PROJECT_DIR$/score/practice.py" />
+        <option value="$PROJECT_DIR$/score/score2.txt" />
+        <option value="$PROJECT_DIR$/score/make_table_process.py" />
+        <option value="$PROJECT_DIR$/score/make_result_Table_process.py" />
+        <option value="$PROJECT_DIR$/score/nav.py" />
+        <option value="$PROJECT_DIR$/score/runserver.py" />
+        <option value="$PROJECT_DIR$/score/cal_score.py" />
+        <option value="$PROJECT_DIR$/score/cgi-bin/Midterm1.py" />
+        <option value="$PROJECT_DIR$/score/cgi-bin/Quiz.py" />
+        <option value="$PROJECT_DIR$/score/server.py" />
+        <option value="$PROJECT_DIR$/score/cgi-bin/View.py" />
+        <option value="$PROJECT_DIR$/score/cgi-bin/Exam.py" />
+        <option value="$PROJECT_DIR$/score/cgi-bin/score_process.py" />
+        <option value="$PROJECT_DIR$/score/cgi-bin/cal_score.py" />
+        <option value="$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(3).py" />
+        <option value="$PROJECT_DIR$/기말대비/Exam3_1.py" />
+        <option value="$PROJECT_DIR$/기말대비/Exam3_2.py" />
+        <option value="$PROJECT_DIR$/기말대비/Week14/Week14_2.py" />
+        <option value="$PROJECT_DIR$/기말대비/Week14/index.html" />
+        <option value="$PROJECT_DIR$/기말대비/Week14/Week14_3.py" />
+        <option value="$PROJECT_DIR$/기말대비/a/a.py" />
+        <option value="$PROJECT_DIR$/기말대비/a/b.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="웹파이썬프로그래밍" type="cbb8eebc:String" user="웹파이썬프로그래밍" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="웹파이썬프로그래밍" type="cbb8eebc:String" user="웹파이썬프로그래밍" />
+              <item name="Week 7" type="cbb8eebc:String" user="Week 7" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="웹파이썬프로그래밍" type="cbb8eebc:String" user="웹파이썬프로그래밍" />
+              <item name="퀴즈, 연습문제" type="cbb8eebc:String" user="퀴즈, 연습문제" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="웹파이썬프로그래밍" type="cbb8eebc:String" user="웹파이썬프로그래밍" />
+              <item name="퀴즈, 연습문제" type="cbb8eebc:String" user="퀴즈, 연습문제" />
+              <item name="Quiz2" type="cbb8eebc:String" user="Quiz2" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="웹파이썬프로그래밍" type="cbb8eebc:String" user="웹파이썬프로그래밍" />
+              <item name="퀴즈, 연습문제" type="cbb8eebc:String" user="퀴즈, 연습문제" />
+              <item name="Quiz3" type="cbb8eebc:String" user="Quiz3" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="웹파이썬프로그래밍" type="cbb8eebc:String" user="웹파이썬프로그래밍" />
+              <item name="퀴즈, 연습문제" type="cbb8eebc:String" user="퀴즈, 연습문제" />
+              <item name="Quiz4" type="cbb8eebc:String" user="Quiz4" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/score/cgi-bin" />
+      <recent name="$PROJECT_DIR$/Week 10/Exam2(월,수 1시수업)" />
+      <recent name="$PROJECT_DIR$/퀴즈, 연습문제/Quiz6" />
+      <recent name="$PROJECT_DIR$/Week 8/Week8(1)" />
+      <recent name="$PROJECT_DIR$/Week 8" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/기말대비/Week14" />
+      <recent name="$PROJECT_DIR$/score" />
+      <recent name="$PROJECT_DIR$/Week 10/Exam2(월,수 4시수업)" />
+      <recent name="$PROJECT_DIR$/플밍 시험" />
+      <recent name="$PROJECT_DIR$/플밍 소스코드" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.b">
+    <configuration name="Exam3_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기말대비" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="웹파이썬프로그래밍" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기말대비/Exam3_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Exam3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기말대비" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="웹파이썬프로그래밍" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기말대비/Exam3_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Week14_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기말대비/Week14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="웹파이썬프로그래밍" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기말대비/Week14/Week14_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기말대비/a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="웹파이썬프로그래밍" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기말대비/a/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기말대비/a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="웹파이썬프로그래밍" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기말대비/a/b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Exam3_2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Exam3_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Week14_3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.a" />
+      <item index="4" class="java.lang.String" itemvalue="Python.b" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.b" />
+        <item index="1" class="java.lang.String" itemvalue="Python.a" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Week14_3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Exam3_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Exam3_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b77b776f-f2d1-4c89-b3f9-4c804306adf2" name="Default" comment="" />
+      <created>1522051013150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522051013150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.47713718" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30933332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.52286285" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Kite" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/-1679533460/builtins.py</url>
+          <line>825</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week 8/Week8(1)/Week8(1).py</url>
+          <line>295</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week5 - Exam1/Exam1(월,수 4시 수업)/Exam1_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week5 - Exam1/Exam1(월,수 4시 수업)/Exam1_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week5 - Exam1/Exam1(월,수 4시 수업)/Exam1_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week5 - Exam1/Exam1(월,수 4시 수업)/Exam1_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week5 - Exam1/Exam1(월,수 4시 수업)/Exam1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 1시수업)/Exam2_1(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(5).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/Week11(1).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/Week11(2).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week15/Week15_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(4).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/practice.py" />
+    <entry file="file://$PROJECT_DIR$/score/make_result_Table_process.py" />
+    <entry file="file://$PROJECT_DIR$/score/result_table.txt" />
+    <entry file="file://$PROJECT_DIR$/Week14/Week14_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week14/Week14_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/cgi-bin/Quiz.py" />
+    <entry file="file://$PROJECT_DIR$/score/runserver.py" />
+    <entry file="file://$PROJECT_DIR$/score/nav.py" />
+    <entry file="file://$PROJECT_DIR$/Week9/Week9(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week9/Week9(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="631" column="0" lean-forward="false" selection-start-line="631" selection-start-column="0" selection-end-line="640" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week14/Week14_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/cgi-bin/View.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/cgi-bin/Exam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="93" column="66" lean-forward="false" selection-start-line="93" selection-start-column="66" selection-end-line="93" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/cgi-bin/cal_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/cgi-bin/score_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/기말대비/Week5 - Exam1/Exam1(월,수 1시 수업)/Exam1(1).py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week5 - Exam1/Exam1(월,수 1시 수업)/Exam1(4).py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week5 - Exam1/Exam1(월,수 1시 수업)/Exam1(5).py" />
+    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/cgi-bin/score2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/기말대비/Week10-Exam2/Exam2(월,수 1시수업)/Exam2_1(1).py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week10-Exam2/Exam2(월,수 1시수업)/Exam2_1(2).py" />
+    <entry file="file://$PROJECT_DIR$/score/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/기말대비/플밍 시험 대비 소스코드/클래스.py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week15/Week15_1.js" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week14/Week14_2.py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week14/Week13(1).css" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week13/Week13(1).html" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week14/index.html" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Week14/Week14_3.py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Exam3_2.py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/Exam3_1.py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/a/a.py" />
+    <entry file="file://$PROJECT_DIR$/기말대비/a/b.py" />
+    <entry file="file://$PROJECT_DIR$/Week9/Week9(5).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+import turtle
+t=turtle.Pen()
+t.shape("turtle")
+t.color("green")
+t.up()
+t.forward(100)
+t.right(100)
+t.up()
+t.down()
+t.forward((100))
+turtle.done()

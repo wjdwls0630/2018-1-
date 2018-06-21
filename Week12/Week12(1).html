@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>My Dynamic Detail Page</title>
+</head>
+
+<body onload="alert('The page has loaded, Okay?')">
+  <h1>JavaScript Practice</h1>
+  <h2 style="color : blue;">addParagraphText button</h2>
+  <button onclick="addParagraphText();">ParagraphText</button>
+  <h2>setColor input text</h2>
+  <p> Description :
+    <input type="text" name="title" placeholder="Write description" id='description'>
+    Color :
+    <select name="color" id="color1">
+      <option value="black">black</option>
+      <option value="blue">blue</option>
+      <option value="green">green</option>
+      <option value="red">red</option>
+    </select>
+    <button type="button" name="button" onclick="setColor(document.getElementById('color1').value);">Color it!</button>
+  </p>
+  <p id="para1"></p>
+  <h2>JavaScript Alert Test</h2>
+  <button type="button" onclick="alert('The test is worked!')">Alert Test</button>
+  <input type="number" id="mathInput"><button type="button" name="button" onclick="myAlertMath()">Multiply X 5</button>
+  <h2>JavaScript Prompt Test</h2>
+  <button onclick="myPrompt()">Enter your name</button>
+  <p id="para2"></p>
+  <h2>JavaScript onblur Event Test</h2>
+  <p><input type="text" id="field1" onblur="checkField1();"><span id="message1"></span></p>
+  <p><input type="text" id="field2" onblur="checkField2();"><span id="message2"></span></p>
+  <h2>JavaScript Math Test</h2>
+  <fieldset>
+    <legend>JS Math</legend>
+    <h3>Check Infinity or NaN result!</h3>
+    first number:
+    <p><input type="number" placeholder="First" id="first"></p>
+    second number:
+    <p><input type="number" placeholder="Second" id='second'></p>
+    <select name="math" id="math">
+      <option value="add">add</option>
+      <option value="sub">sub</option>
+      <option value="mul">mul</option>
+      <option value="div">div</option>
+    </select>
+    <select name="color" id="color2">
+      <option value="black">black</option>
+      <option value="blue">blue</option>
+      <option value="green">green</option>
+      <option value="red">red</option>
+    </select>
+    <button type="button" onclick="doMath_setColor(document.getElementById('color2').value)">Do the math</button>
+    <p id="output" style="font-size:200%;"></p>
+  </fieldset>
+  <script type="text/javascript" src="Week12(1).js"></script>
+</body>
+</html>

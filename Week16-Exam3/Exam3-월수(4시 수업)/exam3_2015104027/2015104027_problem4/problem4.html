@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>Exam 3: Problem 4</title>
+		<link rel="stylesheet" href="problem4.css">
+		<script type="text/javascript">
+		function checkFirstname() {
+			var first=document.getElementById('first').value;
+			if (first.length>=4) {
+				document.getElementById('output').innerHTML = "<span class='out1'>valid</span>";
+
+			}else{
+				document.getElementById('output').innerHTML = "<span class='out2'>Not long enough!</span>";
+			}
+
+
+		}
+
+		</script>
+	</head>
+	<body>
+		<h1>Survey on User Brower</h1>
+		<form class="" action="index.html" method="post">
+			<div class="a">
+				First name:<br />
+				<input type="text" name="" value="" onblur="checkFirstname();" id="first"><span id="output"></span><br />
+				Last name:<br />
+			<input type="text" name="" value="Smith"><br />
+			</div>
+			<div class="b">
+				Your favorite brower:
+				<table border="1" class="browser">
+					<tr>
+						<td><input type="radio" name="" value="">Chrome</td>
+						<td><input type="radio" name="" value="">Explorer</td>
+						<td><input type="radio" name="" value="">Firefox</td>
+						<td><input type="radio" name="" value="">Safari</td>
+					</tr>
+					<tr>
+						<td><img src="chrome.png" alt=""></td>
+						<td><img src="explorer.png" alt=""></td>
+						<td><img src="firefox.jpg" alt=""></td>
+						<td><img src="safari.png" alt=""></td>
+					</tr>
+
+				</table>
+
+			</div>
+
+
+		<input type="submit" name="" value="submit">
+
+		</form>
+
+	</body>
+</html>

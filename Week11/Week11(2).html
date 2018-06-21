@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>종합실습1-1</title>
+  </head>
+  <script type="text/javascript">
+  function test() {
+
+  var price1 = 3000 ;
+  var price2 = 6000 ;
+  var price3 = 3000 ;
+	var result = (price1+price2+price3)>10000 ? (price1+price2+price3)-10000+"원 초과" : "관리 잘했어요!"
+	document.getElementById('para').innerHTML=result;}
+
+  </script>
+  <body>
+    <button type="button" name="button" onclick="test();">Click me!</button>
+    <p id="para"></p>
+  </body>
+</html>

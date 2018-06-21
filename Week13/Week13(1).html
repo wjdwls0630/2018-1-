@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Week13(1)</title>
+</head>
+<!-- Impot CSS File -->
+
+<link rel="stylesheet" href="Week13(1).css">
+<link rel="stylesheet" href="formvalidation1.css">
+
+<body>
+
+  <!--Practice 1-->
+  <div class="grid">
+    <div class="practice1">
+      <h2>HTML Form 1</h2>
+      <form action="#" name='form1'>
+        <fieldset style="width : 300px;" class="fieldset1">
+          <legend>HTML Form 1</legend>
+          What' your name?
+          <p>
+            First name :<br />
+            <input type="text" name="firstname" placeholder="firstname" required><br /> Last name :<br />
+            <input type="text" name="lastname" value="Smith" required><br /> Password :<br />
+            <input type="password" name="password" required><br />
+          </p>
+          What' your favorite food?
+          <p>
+            <input type="radio" name='food' value="Pizza" checked>Pizza<br />
+            <input type="radio" name='food' value="Tacos">Tacos<br />
+            <input type="radio" name='food' value="Salad">Salad<br />
+          </p>
+          Which one do you know?
+          <p>
+            <input type="checkbox" name="skills" value="HTML">I know HTML<br />
+            <input type="checkbox" name="skills" value="JavaScript">I know JavaScript<br />
+          </p>
+          Quantity {between 1 and 5}:
+          <p><input type="number" name="quantity" min="1" max="5"></p>
+          Birthday:
+          <p><input type="date" name="birthday"></p>
+          Select your favorite color:
+          <p><input type="color" name="favcolor"></p>
+          <input type="reset" value="reset" />
+          <input type="submit" value="submit" />
+        </fieldset>
+      </form>
+    </div>
+
+    <!--Practice 1 end-->
+
+    <!--Practice 2-->
+    <div class="practice2">
+      <h2>HTML Form 2</h2>
+      <form action="#" name="form2">
+        <p>
+          Field1 <input type="text" onblur="checkField1();" id="field1"><span id="message1"></span><br />
+          Field2 <input type="text" onblur="checkField2();" id="field2"><span id="message2"></span><br />
+          <!-- In JS use regex and test it -->
+          Country Code JS: <input type="text" onblur="checkField3();" id="field3"><span id="message3"></span><br />
+          <!-- In HTML5 use pattern attribute -->
+          Country Code HTML5 : <input type="text" name="country_code" pattern="[A-Za-z]{3}" title="Three letter country code" required><br />
+          <input type="reset" name="reset" value="reset">
+          <input type="submit" name="submit" value="submit">
+        </p>
+      </form>
+    </div>
+
+    <!--Practice 2 end-->
+
+    <!--Practice 3-->
+
+    <div class="practice3">
+        <h2>HTML Form 3(My)</h2>
+        <h2>Make an Order:</h2>
+        <form class="form3">
+          <table border="1;">
+            <tr>
+              <td class="first_col">First name :</td>
+              <td class="second_col"><input type="text" onblur="htmlForm3Event1();" id="firstname"></td>
+              <td class="third_col"><span id="text1">&nbsp;</span></td>
+            </tr>
+            <tr>
+              <td class="first_col">Last name :</td>
+              <td class="second_col"><input type="text" onblur="htmlForm3Event2();" id="lastname"></td>
+              <td class="third_col"><span id="text2">&nbsp;</span></td>
+            </tr>
+            <tr>
+              <td class="first_col">Phone number :</td>
+              <td class="second_col"><input type="text" id="phonenumber" onblur="htmlForm3Event3();" placeholder="010-xxxx-xxxx" required></td>
+              <td class="third_col"><span id="text3">010-xxxx-xxxx</span></td>
+            </tr>
+            <tr>
+              <td class="first_col">Order Quantity:</td>
+              <td class="second_col"><input type="number" min="1" max="55" id='orderquantity'></td>
+              <td class="third_col"><span id="text4">1&ndash;55</span></td>
+            </tr>
+            <tr>
+              <td class="first_col">Item Price :</td>
+              <td class="second_col"><input type="text" value="10.00" id='itemprice' readonly></td>
+              <td class="third_col"><span id="text5">USD</span></td>
+            </tr>
+            <tr>
+              <td class="button_col" colspan="3"><button type="button" class="button button1" onclick="htmlForm3Order()">Order now</button></td>
+            </tr>
+          </table>
+        </form>
+        <span id="output"></span>
+      </div>
+
+
+        <!--Practice 3 end-->
+
+        <!--Practice 3_1-->
+      <div class="practice3_1">
+        <form action="#">
+          <h2>Html Form 3(Class)</h2>
+          <h2>Make an Order:</h2>
+          <table border="1;">
+            <tr>
+              <td class="label_col">First Name:</td>
+              <td class="input_col"><input name="firstName" id="firstName" type="text" onblur="validateFirstName();"></td>
+              <td class="feedback_col"><span id="firstNamePrompt">&nbsp;</span></td>
+            </tr>
+            <tr>
+              <td class="label_col">Last Name:</td>
+              <td class="input_col"><input name="lastName" id="lastName" type="text" onblur="validateLastName();"></td>
+              <td class="feedback_col"><span id="lastNamePrompt">&nbsp;</span></td>
+            </tr>
+            <tr>
+              <td class="label_col">Phone Number:</td>
+              <td class="input_col"><input name="phone" id="phone" type="text" onblur="validatePhone();" placeholder="xxx-xxx-xxxx"></td>
+              <td class="feedback_col"><span id="phonePrompt">xxx-xxx-xxxx</span></td>
+            </tr>
+            <tr>
+              <td class="label_col">Order Quantity:</td>
+              <td class="input_col"><input name="quantity" id="quantity" type="number"></td>
+              <td class="feedback_col"><span id="quantityPrompt">1&ndash;55</span></td>
+            </tr>
+            <tr>
+              <td class="label_col">Item Price:</td>
+              <td class="input_col"><input name="price" id="price" type="text" value="10.00" readonly></td>
+              <td class="feedback_col">USD</td>
+            </tr>
+            <tr>
+              <td class="Button" id="Button" colspan="3"><span class="buttonBG" onclick="calcOrder();">Order Now</span></td>
+            </tr>
+          </table>
+          <span id="orderConfirm">&nbsp;</span>
+          <!-- <input type="submit" value="submit"/>-->
+        </form>
+      </div>
+      <!--Practice 3_1 end-->
+
+    </div><!--div .grid 's end tag-->
+
+
+  <!-- Impot JS File -->
+  <script type="text/javascript" src="Week13(1).js"></script>
+  <script type="text/javascript" src="formvalidation1.js"></script>
+
+</body>
+
+</html>
