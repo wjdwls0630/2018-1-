@@ -46,4 +46,10 @@ for i in range(user_input):
 
 print(b)
 
+for x in range(1, user_input * 2, 2):
+    print((" " * ( (user_input * 2 - 1 - x) // 2 )) + ("*" * x))
+
+for y in range(user_input * 2-3, 0, -2):
+    print((" " * ( (user_input * 2 - 1 - y) // 2 )) + "*" * y)
+
 
