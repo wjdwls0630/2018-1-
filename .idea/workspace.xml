@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b77b776f-f2d1-4c89-b3f9-4c804306adf2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Week16-Exam3/Exam3-월수(4시 수업)/exam3_2015104027/Exam3_2.py" afterPath="$PROJECT_DIR$/Week16-Exam3/Exam3-월수(4시 수업)/exam3_2015104027/Exam3_2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,26 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Week9(5).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week9/Week9(5).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Week7(2).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week7/Week7(2).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Exam3_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week16-Exam3/Exam3-월수(4시 수업)/exam3_2015104027/Exam3_1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,21 +26,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exam3_2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exam3_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week16-Exam3/Exam3-월수(4시 수업)/exam3_2015104027/Exam3_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+            <state relative-caret-position="8">
+              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exam3_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week16-Exam3/Exam3-월수(1시수업)/Exam3_2.py">
+      <file leaf-file-name="Week 2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week2/Week 2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1357">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Week 4(turtle).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week4/Week 4(turtle).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Week 4(모듈 문제).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week4/Week 4(모듈 문제).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Week 4(조건문 문제).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week4/Week 4(조건문 문제).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-774">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Week 4(조건문 예제).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week4/Week 4(조건문 예제).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Week 6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week6/Week 6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -78,31 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Week9(2).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week9/Week9(2).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Week9(3).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week9/Week9(3).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Week9(4).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week9/Week9(4).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -213,6 +221,66 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week5 - Exam1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week16-Exam3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week16-Exam3" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam3-월수(4시 수업)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
+              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="Week16-Exam3" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam3-월수(4시 수업)" type="462c0819:PsiDirectoryNode" />
+              <item name="exam3_2015104027" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -252,46 +320,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
-              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
-              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
-              <item name="Week6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
-              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
-              <item name="Week7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
-              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
-              <item name="Week16-Exam3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
-              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
-              <item name="Week16-Exam3" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam3-월수(4시 수업)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="웹파이썬프로그래밍" type="b2602c69:ProjectViewProjectNode" />
-              <item name="웹파이썬프로그래밍" type="462c0819:PsiDirectoryNode" />
-              <item name="Week16-Exam3" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam3-월수(4시 수업)" type="462c0819:PsiDirectoryNode" />
-              <item name="exam3_2015104027" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -495,48 +523,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(5).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/Week11(1).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/Week11(2).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week15/Week15_3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week10-Exam2/Exam2(월,수 4시수업)/Exam2_2(4).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -723,8 +709,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week16-Exam3/Exam3-월수(4시 수업)/exam3_2015104027/Exam3_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        <state relative-caret-position="8">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Week 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week4/Week 4(turtle).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week4/Week 4(모듈 문제).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week4/Week 4(조건문 문제).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week4/Week 4(조건문 예제).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week6/Week 6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
           <folding />
         </state>
       </provider>
