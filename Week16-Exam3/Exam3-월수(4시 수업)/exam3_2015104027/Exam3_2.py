@@ -1,55 +1,10 @@
-user_input=int(input())
+user_input=int(input("몇 줄을 출력하시겠습니까? : "))
 
-b=""
-a="*"*user_input
-total=0
-for i in range(user_input):
-    total+=i
-
-
-    if user_input % 2 != 0:
-        if i==int(user_input//2) :
-            b+=a+"\n"
-
-        else:
-            if i< int(user_input // 2) :
-                c = int(user_input // 2)
-                d = a[:c].replace("*" * (c-1), " " * (c-1))
-                e = a[c+1:].replace("*" * (len(a)-1-(c+1)), " " * (len(a)-1-(c+1)))
-                b += d + "*"*total + e + "\n"
-
-            elif i> int(user_input // 2) :
-                c = int(user_input // 2)
-                d = a[:c].replace("*" * (c-1), " " * (c-1))
-                e = a[c + 1:].replace("*" * (len(a)-1-(c+1)), " " * (len(a)-1-(c+1)))
-                b += d + "*" * (len(a)-i) + e + "\n"
-
-
-
-
+for x in range(1,user_input*2,2) :
+    if x<=user_input:
+        print((" " * ((user_input * 2 - 3 - x) // 2)) + ("*" * x))
     else:
-        if i==int(user_input//2) :
-            b+=a+"\n"
-
-        else:
-            if i< int(user_input // 2) :
-                c = int(user_input // 2)
-                d = a[:c].replace("*" * (c-1), " " * (c-1))
-                e = a[c+1:].replace("*" * (len(a)-1-(c+1)), " " * (len(a)-1-(c+1)))
-                b += d + "*"*total + e + "\n"
-
-            elif i> int(user_input // 2) :
-                c = int(user_input // 2)
-                d = a[:c].replace("*" * (c-1), " " * (c-1))
-                e = a[c + 1:].replace("*" * (len(a)-1-(c+1)), " " * (len(a)-1-(c+1)))
-                b += d + "*" * (len(a)-i) + e + "\n"
-
-print(b)
-
-for x in range(1, user_input * 2, 2):
-    print((" " * ( (user_input * 2 - 1 - x) // 2 )) + ("*" * x))
-
-for y in range(user_input * 2-3, 0, -2):
-    print((" " * ( (user_input * 2 - 1 - y) // 2 )) + "*" * y)
+        print((" " * (((user_input*2)-(user_input * 2 + 3 - x)) // 2)) + ("*" * (user_input*2-x)))
 
 
+#for문을 한번 사용하여 다이아 모양을 만들어라
